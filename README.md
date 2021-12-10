@@ -1,7 +1,7 @@
 # 用法
 
 ```
-name: Sync 
+name: Github Forks Sync actio 
 
 on:
   workflow_dispatch:
